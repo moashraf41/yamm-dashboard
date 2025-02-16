@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  height: 100vh; 
+  background-color: #faf1f4;
+}
+
+.table-container {
+  overflow-x: auto; 
+  width: 100%;       
+  max-width: 100%;  
+}
+
+main {
+  min-width: 0;
+}
+button {
+  transition: all 0.2s ease-in-out;
+}
+.sidebar-gradient {
+  background: linear-gradient(180deg, #2e1065 0%, #6a0572 100%);
+  opacity: 0.95;
+  z-index: 1000;
+}

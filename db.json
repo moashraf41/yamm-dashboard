@@ -1,0 +1,352 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "reason": "Defective item",
+      "store_name": "TechStore",
+      "store_logo": "/images/1.png",
+      "store_url": "https://techstore.com",
+      "amount": 120.5,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "Wireless Headphones",
+          "id": "item1",
+          "price": 50,
+          "quantity": 2
+        },
+        {
+          "name": "Wireless Headphones",
+          "id": "item3",
+          "price": 50,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "reason": "Wrong size",
+      "store_name": "FashionHub",
+      "store_logo": "/images/2.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 4,
+      "active": true,
+      "decision": "not yet",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "reason": "Wrong size",
+      "store_name": "Shopino",
+      "store_logo": "/images/3.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 9,
+      "active": true,
+      "decision": "escalate",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "reason": "Wrong size",
+      "store_name": "SwiftBuy",
+      "store_logo": "/images/4.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": false,
+      "decision": "not yet",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "reason": "Wrong size",
+      "store_name": "Cartly",
+      "store_logo": "/images/5.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": true,
+      "decision": "reject",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "reason": "Wrong size",
+      "store_name": "Sellix",
+      "store_logo": "/images/6.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 7,
+      "active": true,
+      "decision": "escalate",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "reason": "Wrong size",
+      "store_name": "QuickMart",
+      "store_logo": "/images/7.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "reason": "Wrong size",
+      "store_name": "Buylo",
+      "store_logo": "/images/8.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "reason": "Wrong size",
+      "store_name": "Trendy",
+      "store_logo": "/images/9.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 2,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "reason": "Wrong size",
+      "store_name": "Shopzy",
+      "store_logo": "/images/10.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": false,
+      "decision": "reject",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "reason": "Wrong size",
+      "store_name": "Sellix",
+      "store_logo": "/images/11.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 10,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "reason": "Wrong size",
+      "store_name": "QuickMart",
+      "store_logo": "/images/12.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": false,
+      "decision": "reject",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "reason": "Wrong size",
+      "store_name": "FikMart",
+      "store_logo": "/images/1.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 100,
+      "active": false,
+      "decision": "escalate",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "reason": "Wrong size",
+      "store_name": "Cartly",
+      "store_logo": "/images/2.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 75,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "reason": "Wrong size",
+      "store_name": "QuickMart",
+      "store_logo": "/images/5.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 25,
+      "active": false,
+      "decision": "escalate",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "reason": "Wrong size",
+      "store_name": "Sellix",
+      "store_logo": "/images/3.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 80,
+      "active": true,
+      "decision": "not yet",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "reason": "Wrong size",
+      "store_name": "Shopino",
+      "store_logo": "/images/4.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 15,
+      "active": true,
+      "decision": "accept",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "reason": "Wrong size",
+      "store_name": "SwiftBuy",
+      "store_logo": "/images/8.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 5,
+      "active": false,
+      "decision": "not yet",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "reason": "Wrong size",
+      "store_name": "Shopzy",
+      "store_logo": "/images/7.png",
+      "store_url": "https://fashionhub.com",
+      "amount": 5,
+      "active": false,
+      "decision": "not yet",
+      "items": [
+        {
+          "name": "T-Shirt",
+          "id": "item2",
+          "price": 25,
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}
